@@ -4,5 +4,5 @@ this will also be the place where I houser my progress tracker
 
    | Lesson | Topic | Status |
    |---|---|---|
-   | 0.0 | Code space setup | In progress |
+   | 0.0 | Code space setup | In review |
    | 0.1 | Plan before you code | Not started |
