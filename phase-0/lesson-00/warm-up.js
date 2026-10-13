@@ -1,7 +1,7 @@
 const week = [
   { day: "Monday", plannedHours: 3, focus: "JavaScript" },
-  { day: "Tuesday", PlannedHours: 2, focus: "TypeScript" },
-  { day: "Thursday", PlannedHours: 4, focus: "Setup Code" },
+  { day: "Tuesday", plannedHours: 2, focus: "TypeScript" },
+  { day: "Thursday", plannedHours: 4, focus: "Setup Code" },
 ];
 
 console.log("The first day is", week[0].day);
