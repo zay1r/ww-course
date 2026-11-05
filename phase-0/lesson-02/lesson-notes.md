@@ -106,6 +106,9 @@ Adding more information with tags
  * @constructor
  * @param {string} title - The title of the book.
  * @param {string} author - The author of the book.
+ * @typedef {(object)} - collection of books 
+ * @returns
+ * @callback
  */
 function Book(title, author) {
 }
